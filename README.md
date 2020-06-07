@@ -1,0 +1,1 @@
+# lucidchart-to-loopback-model-script
