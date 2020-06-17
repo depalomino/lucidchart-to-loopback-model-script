@@ -1,0 +1,24 @@
+{
+  "name": "lucidchart-to-loopback-model-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depalomino/lucidchart-to-loopback-model-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/depalomino/lucidchart-to-loopback-model-script/issues"
+  },
+  "homepage": "https://github.com/depalomino/lucidchart-to-loopback-model-script#readme",
+  "dependencies": {
+    "csv-parse": "^4.10.1",
+    "fs": "0.0.1-security",
+    "mkdirp": "^1.0.4"
+  }
+}

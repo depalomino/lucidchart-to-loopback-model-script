@@ -1,1 +1,5 @@
-# lucidchart-to-loopback-model-script
+Lucidchart DER to loopback model script
+
+
+TODO...
+
